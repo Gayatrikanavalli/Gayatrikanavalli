@@ -1,5 +1,5 @@
 # 💫 Hii I am Gayatri Kanavalli
-🌟 I'm a Final Year Information Science Engineering student.<br>💻 Passionate about Full-Stack Web Development and AI<br>🚀 I enjoy building practical projects and exploring new technologies.<br>📚 Currently learning and improving my problem-solving skills.
+🌟 I'm a Final Year Information Science Engineering student.<br>💻 Passionate about Full-Stack Web Development and Exploring AI<br>🚀 I enjoy building practical projects and exploring new technologies.<br>📚 Currently learning  building projects and improving my problem-solving skills.
 
 
 # 💻 Tech Stack:
